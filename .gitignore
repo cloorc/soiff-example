@@ -1,0 +1,9 @@
+out/
+target/
+build/
+.idea/
+*.jar
+*.class
+.classpath
+.project
+.settings/
